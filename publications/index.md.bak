@@ -3,81 +3,63 @@ title: Publications
 date: 2018-11-20 15:57:49
 ---
 ### 2020
+- **Leveraging Auxiliary Tasks for Height andWeight Estimation by Multi Task Learning**
+ Dan Han, Jie Zhang, Shiguang Shan. Leveraging Auxiliary Tasks for Height and Weight Estimation by Multi Task Learning. International Joint Conference on Biometrics (IJCB), 2020.
+- **Attributes Aware Face Generation with Generative Adversarial Networks**
+ Zheng Yuan, Jie Zhang, Shiguang Shan, Xilin Chen. Attributes Aware Face Generation with Generative Adversarial Networks. International Conference on Pattern Recognition (ICPR) 2020.  
+- **Deformable Face Net for Pose Invariant Face Recognition **
+ Mingjie He, Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Deformable Face Net for Pose Invariant Face Recognition. Pattern Recognition (PR) 2020. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020051314412028.pdf)]
 - **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**
  Yude Wang, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. (Oral) [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411112068.pdf)] [[code](https://github.com/YudeWang/SEAM)]
 - **Single-Side Domain Generalization for Face Anti-Spoofing**
   Yunpei Jia, Jie Zhang, Shiguang Shan, Xilin Chen. Single-Side Domain Generalization for Face Anti-Spoofing. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020071411125594.pdf
 )] [[code](https://github.com/taylover-pei/SSDG-CVPR2020)]
-- **[Fast Stochastic Ordinal Embedding with Variance Reduction and Adaptive Step Size](https://ieeexplore.ieee.org/document/8918070/)**
-  Ke Ma, Jinshan Zeng, Jiechao Xiong, Qianqian Xu, Xiaochun Cao, Wei Liu and Yuan Yao. Fast Stochastic Ordinal Embedding with Variance Reduction and Adaptive Step Size. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020 (Early Access). [[pdf](https://arxiv.org/abs/1912.00362)] [[code](https://github.com/alphaprime/Stabilized_Stochastic_BB)]
+- **Noise Robust Hard Example Mining for Human Detection with Efficient Depth-Thermal Fusion**
+ Zijian Zhao, Jie Zhang, Shiguang Shan. Noise Robust Hard Example Mining for Human Detection with Efficient Depth-Thermal Fusion. IEEE International Conference on Automatic Face and Gesture Recognition Workshops (FGW), 2020. **(2nd Winner of Human Detection)** 
+- **PAS-Net: Pose-based and Appearance-based Spatiotemporal Networks Fusion for Action Recognition **
+ Changzhen Li, Jie Zhang, Shiguang Shan, Xilin Chen. PAS-Net: Pose-based and Appearance-based Spatiotemporal Networks Fusion for Action Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2020. 
+
+
 
 ### 2019
-- **[From Social to Individuals: a Parsimonious Path of Multi-level Models for Crowdsourced Preference Aggregation](https://ieeexplore.ieee.org/document/8319957/)**
-  Qianqian Xu, Jiechao Xiong, Xiaochun Cao, Qingming Huang and Yuan Yao. From Social to Individuals: a Parsimonious Path of Multi-level Models for Crowdsourced Preference Aggregation. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 41(4): 844--856, Apr. 2019. (Regular paper) [[pdf](https://github.com/qianqianxu010/TPAMI2018/blob/master/journal%20version.pdf)] [[code](https://github.com/qianqianxu010/TPAMI2018/tree/master/code)]
-- **[iSplit LBI: Individualized Partial Ranking with Ties via Split LBI](https://papers.nips.cc/paper/8645-isplit-lbi-individualized-partial-ranking-with-ties-via-split-lbi)**
-  Qianqian Xu, Xinwei Sun, Zhiyong Yang, Xiaochun Cao, Qingming Huang and Yuan Yao. iSplit LBI: Individualized Partial Ranking with Ties via Split LBI. Annual Conference on Neural Information Processing Systems (NeurIPS), 3896--3906, 2019. (Poster) [[pdf](https://github.com/qianqianxu010/NeurIPS2019-iSplitLBI/blob/master/paper/NeurIPS19-iSplitLBI.pdf)] [[code](https://github.com/qianqianxu010/NeurIPS2019-iSplitLBI)] [[poster](https://github.com/qianqianxu010/NeurIPS2019-iSplitLBI/blob/master/poster/NeurIPS2019-iSplitLBI-Poster.pdf)]
-- **[Deep Robust Subjective Visual Property Prediction in Crowdsourcing](http://openaccess.thecvf.com/content_CVPR_2019/html/Xu_Deep_Robust_Subjective_Visual_Property_Prediction_in_Crowdsourcing_CVPR_2019_paper.html)**
-  Qianqian Xu, Zhiyong Yang, Yangbangyan Jiang, Xiaochun Cao, Qingming Huang and Yuan Yao. Deep Robust Subjective Visual Property Prediction in Crowdsourcing. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 8993--9001, 2019. (Poster) [[pdf](https://github.com/qianqianxu010/CVPR19-Deep-Robust-Subjective-Visual-Property-Prediction-in-Crowdsourcing/blob/master/paper/CVPR2019_xu.pdf)] [[code](https://github.com/qianqianxu010/CVPR19-Deep-Robust-Subjective-Visual-Property-Prediction-in-Crowdsourcing)] [[poster](https://github.com/qianqianxu010/CVPR19-Deep-Robust-Subjective-Visual-Property-Prediction-in-Crowdsourcing/blob/master/paper/Poster-CVPR19-Deep_Robust_SVP_Prediction.pdf)]
-- **[Generalized Block-Diagonal Structure Pursuit: Learning Soft Latent Task Assignment against Negative Transfer](https://papers.nips.cc/paper/8820-generalized-block-diagonal-structure-pursuit-learning-soft-latent-task-assignment-against-negative-transfer)**
-  Zhiyong Yang, Qianqian Xu, Yangbangyan Jiang, Xiaochun Cao and Qingming Huang. Generalized Block-Diagonal Structure Pursuit: Learning Soft Latent Task Assignment against Negative Transfer. Annual Conference on Neural Information Processing Systems (NeurIPS), 5846--5857, 2019. (Poster) [[pdf](https://openreview.net/pdf?id=rylOcEreUr)] [[code](https://github.com/joshuaas/GBDSP-NeurIPS19)] [[poster](https://github.com/joshuaas/GBDSP-NeurIPS19/blob/master/conference_poster_2.pdf)]
-- **[DM2C: Deep Mixed-Modal Clustering](https://papers.nips.cc/paper/8823-dm2c-deep-mixed-modal-clustering)**
-  Yangbangyan Jiang, Qianqian Xu, Zhiyong Yang, Xiaochun Cao and Qingming Huang. DM2C: Deep Mixed-Modal Clustering. Annual Conference on Neural Information Processing Systems (NeurIPS), 5880--5890, 2019. (Spotlight) [[pdf](https://openreview.net/pdf?id=rJgt54Bx8r)] [[code](https://github.com/jiangyangby/DM2C/tree/master/code)] [[poster](https://github.com/jiangyangby/DM2C/blob/master/poster/NeurIPS2019-DM2C-Poster.pdf)] [[slides](https://github.com/jiangyangby/DM2C/blob/master/slides/NeurIPS2019-DM2C-slides.pdf)]
-- **[Learning Personalized Attribute Preference via Multi-task AUC Optimization](https://aaai.org/ojs/index.php/AAAI/article/view/4510)**
-  Zhiyong Yang, Qianqian Xu, Xiaochun Cao and Qingming Huang. Learning Personalized Attribute Preference via Multi-task AUC Optimization. AAAI Conference on Artificial Intelligence (AAAI), 5660--5667, 2019. (Oral) [[pdf](https://arxiv.org/abs/1906.07341)] [[code](https://github.com/joshuaas/AAAI-19-Learning-Personalized-Attribute-Preference-via-Multi-task-AUC-Optimization)] [[poster](https://github.com/joshuaas/AAAI-19-Learning-Personalized-Attribute-Preference-via-Multi-task-AUC-Optimization/blob/master/post_aaai19_zhiyong.pdf)] [[slides](https://github.com/joshuaas/AAAI19_3053_slides/blob/master/aaai_3053_slides.pdf)]
-- **[Less but Better: Generalization Enhancement of Ordinal Embedding via Distributional Margin](https://aaai.org/ojs/index.php/AAAI/article/view/4154)**
-  Ke Ma, Qianqian Xu, Zhiyong Yang and Xiaochun Cao. Less but Better: Generalization Enhancement of Ordinal Embedding via Distributional Margin. AAAI Conference on Artificial Intelligence (AAAI), 2978--2985, 2019. (Poster) [[pdf](http://arxiv.org/abs/1812.01939)] [[code](https://github.com/alphaprime/DMOE)] [[poster](https://github.com/alphaprime/alphaprime.github.io/blob/master/AAAI_19_Poster_1497.pdf)]
-- **[Robust Ordinal Embedding from Contaminated Relative Comparisons](https://aaai.org/ojs/index.php/AAAI/article/view/4790)**
-  Ke Ma, Qianqian Xu and Xiaochun Cao. Robust Ordinal Embedding from Contaminated Relative Comparisons. AAAI Conference on Artificial Intelligence (AAAI), 7908--7915, 2019. (Poster) [[pdf](https://arxiv.org/abs/1812.01945)] [[code](https://github.com/alphaprime/ROE)] [[poster](https://github.com/alphaprime/alphaprime.github.io/blob/master/AAAI_19_Poster_4517.pdf)]
-- **[Split Multiplicative Multi-view Subspace Clustering](https://ieeexplore.ieee.org/document/8712567)**
-  Zhiyong Yang, Qianqian Xu, Weigang Zhang, Xiaochun Cao and Qingming Huang. Split Multiplicative Multi-view Subspace Clustering. IEEE Transactions on Image Processing (TIP), 28(10): 5147--5160, May 2019. (Regular paper) [[pdf](https://www.researchgate.net/publication/333007034_Split_Multiplicative_Multi-view_Subspace_Clustering)] [[code](https://github.com/joshuaas/SM2SC)]
-- **[Collaborative Preference Embedding against Sparse Labels](https://dl.acm.org/citation.cfm?id=3350915)**
-  Shilong Bao, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. Collaborative Preference Embedding against Sparse Labels. ACM Conference on Multimedia (ACM MM), 2079--2087, 2019. (Oral) [[pdf](https://github.com/statusrank/CPE/blob/master/Collaborative%20Preference%20Embedding%20against%20Sparse%20Labels.pdf)] [[code](https://github.com/statusrank/CPE)] [[poster](https://github.com/statusrank/CPE/blob/master/CPE_Poster.pdf)] [[slides](https://github.com/statusrank/CPE/blob/master/CPE_Slides.pdf)]
-- **[Adversarial Preference Learning with Pairwise Comparisons](https://dl.acm.org/citation.cfm?id=3350919)**
-  Zitai Wang, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (ACM MM), 656--664, 2019. (Oral) [[pdf](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf)] [[code](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons)] [[poster](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)] [[slides](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)]
-- **[Duet Robust Deep Subspace Clustering](https://dl.acm.org/citation.cfm?id=3350852)**
-  Yangbangyan Jiang, Qianqian Xu, Zhiyong Yang, Xiaochun Cao and Qingming Huang. Duet Robust Deep Subspace Clustering. ACM Conference on Multimedia (ACM MM), 1596--1604, 2019. (Spotlight) [[pdf](https://github.com/jiangyangby/DRDSC/blob/master/paper/MM19-Duet-Robust-Deep-Subspace-Clustering.pdf)] [[code](https://github.com/jiangyangby/DRDSC)] [[poster](https://github.com/jiangyangby/DRDSC/blob/master/paper/MM19-DRDSC-Poster.pdf)] [[slides](https://github.com/jiangyangby/DRDSC/blob/master/paper/MM19-DRDSC-Slides.pdf)]
-- **[Low-Light Image Enhancement via a Deep Hybrid Network](https://ieeexplore.ieee.org/document/8692732)**
-  Wenqi Ren, Sifei Liu, Lin Ma, Qianqian Xu, Xiangyu Xu, Xiaochun Cao, Junping Du and Ming-Hsuan Yang. Low-Light Image Enhancement via a Deep Hybrid Network. IEEE Transactions on Image Processing (TIP), 28(9): 4364--4375, Sep. 2019. (Regular paper) [[pdf](https://ieeexplore.ieee.org/document/8692732)] [[code](https://drive.google.com/file/d/1WYQd5z9NXW-IOWLSH3w70t3XnLUAHnAZ/view?usp=sharing)]
+- **Locality-constrained Framework for Face Alignment**
+  Jie Zhang, Xiaowei Zhao, Meina Kan, Shiguang Shan, Xiujuan Chai, Xilin Chen. Locality-constrained Framework for Face Alignment. Frontiers of Computer Science (FCS), 2019.
+- **Deformable Face Net: Learning Pose Invariant Feature with Pose Aware Feature Alignment for Face Recognition**
+ Mingjie He, Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Deformable Face Net: Learning Pose Invariant Feature with Pose Aware Feature Alignment for Face Recognition. IEEE International Conference on Automatic Face and Gesture Recognition (FG), 2019. (Oral) [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2019070910345285.pdf)] [[code](https://github.com/EigenMing/Deformable-Face-Net)] 
+- **DFT-Net: Disentanglement of Face Deformation and Texture Synthesis for Expression Editing**
+  Jinghui Wang, Jie Zhang, Zijia Lu, Shiguang Shan. DFT-Net: Disentanglement of Face Deformation and Texture Synthesis for Expression Editing. IEEE International Conference on Image Processing (ICIP), 2019. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020010317380364.pdf)] 
+
 
 ### 2018
-- **[A Margin-based MLE for Crowdsourced Partial Ranking](https://dl.acm.org/citation.cfm?id=3240597)**
-  Qianqian Xu, Jiechao Xiong, Xinwei Sun, Zhiyong Yang, Xiaochun Cao, Qingming Huang and Yuan Yao. A Margin-based MLE for Crowdsourced Partial Ranking. ACM Conference on Multimedia (ACM MM), 591--599, 2018. (Full paper) [[pdf](https://arxiv.org/abs/1807.11014)] [[code](https://github.com/qianqianxu010/ACM-MM2018)] [[poster](https://github.com/qianqianxu010/ACM-MM2018/blob/master/poster/MM18_poster_XU.pdf)]
-- **[HodgeRank with Information Maximization for Crowdsourced Pairwise Ranking Aggregation](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16218)**
-  Qianqian Xu, Jiechao Xiong, Xi Chen, Qingming Huang and Yuan Yao. HodgeRank with Information Maximization for Crowdsourced Pairwise Ranking Aggregation. AAAI Conference on Artificial Intelligence (AAAI), 4326--4334, 2018. (Oral) [[pdf](https://github.com/qianqianxu010/AAAI2018/blob/master/paper.pdf)] [[code](https://github.com/qianqianxu010/AAAI2018/tree/master/code)] [[dataset](https://github.com/qianqianxu010/AAAI2018/tree/master/dataset)]
-- **[From Common to Special: When Multi-Attribute Learning Meets Personalized Opinions](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16597)**
-  Zhiyong Yang, Qianqian Xu, Xiaochun Cao and Qingming Huang. From Common to Special: When Multi-Attribute Learning Meets Personalized Opinions. AAAI Conference on Artificial Intelligence (AAAI), 515--522, 2018. (Poster) [[pdf](https://arxiv.org/abs/1711.06867)] [[code](https://github.com/joshuaas/AAAI-2018-From-Common-to-Special-When-Multi-Attribute-Learning-Meets-Personalized-Opinions)] [[poster](https://github.com/joshuaas/AAAI-2018-From-Common-to-Special-When-Multi-Attribute-Learning-Meets-Personalized-Opinions/blob/master/post_aaai18_zhiyong.pdf)]
-- **[Stochastic Non-convex Ordinal Embedding with Stabilized Barzilai-Borwein Step Size](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16082)**
-  Ke Ma, Jinshan Zeng, Jiechao Xiong, Qianqian Xu, Xiaochun Cao, Wei Liu and Yuan Yao. Stochastic Non-convex Ordinal Embedding with Stabilized Barzilai-Borwein Step Size. AAAI Conference on Artificial Intelligence (AAAI), 3738--3745, 2018. (Poster) [[pdf](https://arxiv.org/abs/1711.06446)] [[code](https://github.com/alphaprime/Stabilized_Stochastic_BB)] [[poster](https://github.com/alphaprime/alphaprime.github.io/blob/master/AAAI_18_Poster.pdf)]
-- **[When to Learn What: Deep Cognitive Subspace Clustering](https://dl.acm.org/citation.cfm?id=3240582)**
-  Yangbangyan Jiang, Zhiyong Yang, Qianqian Xu, Xiaochun Cao and Qingming Huang. When to Learn What: Deep Cognitive Subspace Clustering. ACM Conference on Multimedia (ACM MM), 718--726, 2018. (Full paper) [[pdf](https://www.researchgate.net/publication/328375144_When_to_Learn_What_Deep_Cognitive_Subspace_Clustering)] [[code](https://github.com/jiangyangby/MM18-Deep-Cognitive-Subspace-Clustering)] [[poster](https://github.com/jiangyangby/MM18-Deep-Cognitive-Subspace-Clustering/blob/master/paper/MM18-DeepCogSC-Poster.pdf)]
+- **A Three-Category Face Detector with Contextual Information on Finding Tiny Faces**
+  Feng Jiang, Jie Zhang, Liping Yan, Yuanqing Xia, Shiguang Shan. A Three-Category Face Detector with Contextual Information on Finding Tiny Faces. IEEE International Conference on Image Processing (ICIP), 2018.
+- **Efficient Weighted Kernel Sharing Convolutional Neural Networks**
+ Helong Zhou, Yie-Tarng Chen, Jie Zhang, Wen-Hsien Fang. Efficient Weighted Kernel Sharing Convolutional Neural Networks. IEEE International Conference on Visual Communications and Image Processing (VCIP), 2018.
 
 ### 2017
-- **[Exploring Outliers in Crowdsourced Ranking for QoE](https://dl.acm.org/citation.cfm?id=3123267)**
-  Qianqian Xu, Ming Yan, Chendi Huang, Jiechao Xiong, Qingming Huang, and Yuan Yao. Exploring Outliers in Crowdsourced Ranking for QoE. ACM Conference on Multimedia (ACM MM), 1540--1548, 2017. (Oral) [[pdf](https://github.com/qianqianxu010/ACM-MM2017/blob/master/paper.pdf)] [[code](https://github.com/qianqianxu010/ACM-MM2017/tree/master/code)]
+- **Robust Fec-cnn: A High Accuracy Facial Landmark Detection System**
+  Zhenliang He, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Robust Fec-cnn: A High Accuracy Facial Landmark Detection System. IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2017. **(2nd Winner of Face Alignment)** [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018041016314136.pdf)]
+- **KinNet: Fine-to-Coarse Deep Metric Learning for Kinship Verification**
+Yong Li, Jiabei Zeng, Jie Zhang, Anbo Dai, Meina Kan, Shiguang Shan, Xilin Chen. Kinnet: Fine-to-coarse deep metric learning for kinship verification. ACM Conference on Multimedia Workshops (ACM MMW) 2017. **(1st Winner of Kinship Verification)** 
+- **A Fully End-to-End Cascaded CNN for Facial Landmark Detection**
+Zhenliang He, Meina Kan, Jie Zhang, Xilin Chen, Shiguang Shan. A Fully End-to-End Cascaded CNN for Facial Landmark Detection. IEEE International Conference on Face and Gesture Recognition (FG), 2017. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2017122111490412.pdf)]
+
 
 ### 2016
-- **[False Discovery Rate Control and Statistical Quality Assessment of Annotators in Crowdsourced Ranking](https://dl.acm.org/citation.cfm?id=3045526)**
-  Qianqian Xu, Jiechao Xiong, Xiaochun Cao, and Yuan Yao. False Discovery Rate Control and Statistical Quality Assessment of Annotators in Crowdsourced Ranking. International Conference on Machine Learning (ICML), 1282--1291, 2016. (Oral) [[pdf](https://github.com/qianqianxu010/ICML2016/blob/master/paper.pdf)] [[code](https://github.com/qianqianxu010/ICML2016/tree/master/code)]
-- **[Parsimonious Mixed-Effects HodgeRank for Crowdsourced Preference Aggregation](https://dl.acm.org/citation.cfm?id=2964298)**
-  Qianqian Xu, Jiechao Xiong, Xiaochun Cao, and Yuan Yao. Parsimonious Mixed-Effects HodgeRank for Crowdsourced Preference Aggregation. ACM Conference on Multimedia (ACM MM), 841--850, 2016. (Full paper) [[pdf](https://github.com/qianqianxu010/TPAMI2018/blob/master/conference%20version.pdf)] [[code](https://github.com/qianqianxu010/TPAMI2018/tree/master/code)]
-- **[Analysis of crowdsourced sampling strategies for HodgeRank with sparse random graphs](https://www.sciencedirect.com/science/article/pii/S1063520316000300)**
-  Braxton Osting, Jiechao Xiong, Qianqian Xu, and Yuan Yao. Analysis of crowdsourced sampling strategies for HodgeRank with sparse random graphs. Applied and Computational Harmonic Analysis (ACHA), 41(2): 540--560, 2016. [[pdf](https://github.com/qianqianxu010/ACHA2016/blob/master/paper.pdf)] [[code](https://github.com/qianqianxu010/ACHA2016/tree/master/code)]
+- **Occlusion-free Face Alignment: Deep Regression Networks Coupled with De-corrupt AutoEncoders**
+  Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Occlusion-free Face Alignment: Deep Regression Networks Coupled with De-corrupt AutoEncoders. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018112115045748.pdf)]
+
+### 2015
+- **Leveraging Datasets with Varying Annotations for Face Alignment via Deep Regression Network**
+  Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Leveraging Datasets with Varying Annotations for Face Alignment via Deep Regression Network. IEEE International Conference on Computer Vision (ICCV), 2015. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018112710234032.pdf)]
+- **AgeNet:Deeply Learned Regressor and Classifier for Robust Apparent Age Estimation**
+Xin Liu, Shaoxin Li, Meina Kan, Jie Zhang, Shuzhe Wu, Wenxian Liu, hu Han, Shiguang Shan, Xilin Chen. AgeNet:Deeply Learned Regressor and Classifier for Robust Apparent Age Estimation. IEEE International Conference on Computer Vision Workshops (ICCVW), 2015. **(2nd Winner of Apparent Age Estimation)** [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2018112710272449.pdf)]
 
 ### 2014
-- **[Online HodgeRank on Random Graphs for Crowdsourceable QoE Evaluation](https://ieeexplore.ieee.org/document/6675048)**
-  Qianqian Xu, Jiechao Xiong, Qingming Huang, and Yuan Yao. Online HodgeRank on Random Graphs for Crowdsourceable QoE Evaluation. IEEE Transactions on Multimedia (TMM), 16(2): 373--386, Feb. 2014. (Regular paper) [[pdf](https://github.com/qianqianxu010/TMM2014/blob/master/journal%20verison.pdf)] [[code](https://github.com/qianqianxu010/TMM2014/tree/master/code)] [[dataset](https://github.com/qianqianxu010/TMM2014/tree/master/PC-IQA%20dataset)]
+- **Coarse-to-Fine Auto-encoder Networks (CFAN) for Real-time Face Alignment**
+Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Coarse-to-Fine Auto-encoder Networks (CFAN) for Real-time Face Alignment. European Conference on Computer Vision (ECCV), 2014 [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2015116183235130.pdf)] [[code](http://vipl.ict.ac.cn/resources/codes/code/ECCV2014_CFAN_Code_v2.0.rar)]
+- **Topic-aware Deep Auto-encoders (TDA) for Face Alignment**
+Jie Zhang, Meina Kan, Shiguang Shan, Xiaowe Zhao, Xilin Chen. Topic-aware Deep Auto-encoders (TDA) for Face Alignment. Asian Conference on Computer Vision (ACCV), 2014. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2015116194332061.pdf)] 
 
-### 2013
-- **[Robust Evaluation for Quality of Experience in Crowdsourcing](https://dl.acm.org/citation.cfm?id=2502083)**
-  Qianqian Xu, Jiechao Xiong, Qingming Huang, and Yuan Yao. Robust Evaluation for Quality of Experience in Crowdsourcing. ACM Conference on Multimedia (ACM MM), 43--52, 2013. (Full paper) [[pdf](https://github.com/qianqianxu010/ACM-MM2013/blob/master/paper.pdf)] [[code](https://github.com/qianqianxu010/ACM-MM2013/tree/master/code)] [[PC-IQA dataset](https://github.com/qianqianxu010/ACM-MM2013/tree/master/PC-IQA%20dataset)] [[PC-VQA dataset](https://github.com/qianqianxu010/ACM-MM2013/tree/master/PC-VQA%20dataset)]
 
-### 2012
-- **[Online Crowdsourcing Subjective Image Quality Assessment](https://dl.acm.org/citation.cfm?id=2393400)**
-  Qianqian Xu, Qingming Huang and Yuan Yao. Online Crowdsourcing Subjective Image Quality Assessment. ACM Conference on Multimedia (ACM MM), 359--368, 2012. (Full paper) [[pdf](https://github.com/qianqianxu010/TMM2014/blob/master/conference%20version.pdf)] [[code](https://github.com/qianqianxu010/TMM2014/tree/master/code)] [[dataset](https://github.com/qianqianxu010/TMM2014/tree/master/PC-IQA%20dataset)]
-- **[HodgeRank on Random Graphs for Subjective Video Quality Assessment](https://ieeexplore.ieee.org/document/6170000)**
-  Qianqian Xu, Qingming Huang, Tingting Jiang, Bowei Yan, Weisi Lin and Yuan Yao. HodgeRank on Random Graphs for Subjective Video Quality Assessment. IEEE Transactions on Multimedia (TMM), 14(3): 844--857, Jun. 2012. (Regular paper) [[pdf](https://github.com/qianqianxu010/TMM2012/blob/master/journal%20version.pdf)] [[code](https://github.com/qianqianxu010/TMM2012/tree/master/code)] [[dataset](https://github.com/qianqianxu010/TMM2012/tree/master/PC-VQA%20dataset)]
-
-### 2011
-- **[Random Partial Paired Comparison for Subjective Video Quality Assessment via HodgeRank](https://dl.acm.org/citation.cfm?id=2072350)**
-  Qianqian Xu, Tingting Jiang, Yuan Yao, Qingming Huang, Bowei Yan and Weisi Lin. Random Partial Paired Comparison for Subjective Video Quality Assessment via HodgeRank. ACM Conference on Multimedia (ACM MM), 393--402, 2011. (Full paper) [[pdf](https://github.com/qianqianxu010/TMM2012/blob/master/conference%20version.pdf)] [[code](https://github.com/qianqianxu010/TMM2012/tree/master/code)] [[dataset](https://github.com/qianqianxu010/TMM2012/tree/master/PC-VQA%20dataset)]
 
