@@ -2,11 +2,25 @@
 title: Publications
 date: 2018-11-20 15:57:49
 ---
+### 2021
+- **Locality-aware Channel-wise Dropout for Occluded Face Recognition**
+Mingjie He, Jie Zhang, Shiguang Shan, Xiao Liu, Zhongqin Wu, Xilin Chen. Locality-aware Channel-wise Dropout for Occluded Face Recognition. IEEE  TIP 2021. (Accepted)
+- **Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofing**
+Yunpei Jia, Jie Zhang, Shiguang Shan. Dual-Branch Meta-learning Network with Distribution Alignment for Face Anti-spoofing. IEEE  Transactions on Information Forensics and Security (TFIS) 2021. (Accepted)
+- **Learning Shape-Appearance Based Attributes Representation for Facial Attribute Recognition with Limited Labeled Data**
+Kunyan Li, Jie Zhang, Shiguang Shan. Learning Shape-Appearance Based Attributes Representation for Facial Attribute Recognition with Limited Labeled Data. IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2021.
+- **Unknown Aware Feature Learning for Face Forgery Detection**
+Liang Shi, Jie Zhang, Chenyue Liang, Shiguang Shan. Unknown Aware Feature Learning for Face Forgery Detection. IEEE International Conference on Automatic Face and Gesture Recognition (FG) 2021.
+- **Meta Gradient Adversarial Attack**
+Zheng Yuan, Jie Zhang, Yunpei Jia, Chuanqi Tan, Tao Xue, Shiguang Shan. Meta Gradient Adversarial Attack. IEEE International Conference on Computer Vision (ICCV) 2021.[[code](https://github.com/huitailangyz/MGAA)]
+- **Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing**
+Yunpei Jia, Jie Zhang, Shiguang Shan, Xilin Chen. Unified unsupervised and semi-supervised domain adaptation network for cross-scenario face anti-spoofing. Pattern Recognition (PR) 2021.
+
 ### 2020
 - **Leveraging Auxiliary Tasks for Height andWeight Estimation by Multi Task Learning**
  Dan Han, Jie Zhang, Shiguang Shan. Leveraging Auxiliary Tasks for Height and Weight Estimation by Multi Task Learning. International Joint Conference on Biometrics (IJCB), 2020.
 - **Attributes Aware Face Generation with Generative Adversarial Networks**
- Zheng Yuan, Jie Zhang, Shiguang Shan, Xilin Chen. Attributes Aware Face Generation with Generative Adversarial Networks. International Conference on Pattern Recognition (ICPR)£¬ 2020.
+ Zheng Yuan, Jie Zhang, Shiguang Shan, Xilin Chen. Attributes Aware Face Generation with Generative Adversarial Networks. International Conference on Pattern Recognition (ICPR), 2020.
 - **Deformable Face Net for Pose Invariant Face Recognition **
  Mingjie He, Jie Zhang, Shiguang Shan, Meina Kan, Xilin Chen. Deformable Face Net for Pose Invariant Face Recognition. Pattern Recognition (PR), 2020. [[pdf](https://vipl.ict.ac.cn/uploadfile/upload/2020051314412028.pdf)]
 - **Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation**
