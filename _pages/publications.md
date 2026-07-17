@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ### 2026
+
+- **VOPE: Revisiting Hallucination of Vision-Language Modelsin Voluntary Imagination Task**
+
+  Xingming Long, Jie Zhang, Shiguang Shan, Xinlin Chen. VOPE: Revisiting Hallucination of Vision-Language Modelsin Voluntary Imagination Task. ACM Multimedia (ACM MM). [[pdf](https://arxiv.org/abs/2511.13420)] 
+
 - **Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating**
 
   Xiangkui Cao, Jie Zhang, Meina Kan, Shiguang Shan, Xilin Chen. Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating. European Conference on Computer Vision (ECCV). [[pdf](https://arxiv.org/abs/2603.12598)]
