@@ -11,6 +11,10 @@ redirect_from:
 
 ### 2026
 
+- **Multi-PA: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models**
+
+  Jie Zhang, Xiangkui Cao, Zhouyu Han, Shiguang Shan, Xilin Chen. Multi-PA: A Multi-perspective Benchmark on Privacy Assessment for Large Vision-Language Models. IEEE Transactions on Information Forensics and Security (TIFS). [[pdf](https://arxiv.org/abs/2412.19496)]
+
 - **VOPE: Revisiting Hallucination of Vision-Language Modelsin Voluntary Imagination Task**
 
   Xingming Long, Jie Zhang, Shiguang Shan, Xinlin Chen. VOPE: Revisiting Hallucination of Vision-Language Modelsin Voluntary Imagination Task. ACM Multimedia (ACM MM). [[pdf](https://arxiv.org/abs/2511.13420)] 
